@@ -1,0 +1,10 @@
+E:\Visual Studio\BSServer\BSServer\bin\Debug\BSServer.exe.config
+E:\Visual Studio\BSServer\BSServer\bin\Debug\BSServer.exe
+E:\Visual Studio\BSServer\BSServer\bin\Debug\BSServer.pdb
+E:\Visual Studio\BSServer\BSServer\obj\Debug\BSServer.csprojAssemblyReference.cache
+E:\Visual Studio\BSServer\BSServer\obj\Debug\BSServer.FrmMain.resources
+E:\Visual Studio\BSServer\BSServer\obj\Debug\BSServer.Properties.Resources.resources
+E:\Visual Studio\BSServer\BSServer\obj\Debug\BSServer.csproj.GenerateResource.cache
+E:\Visual Studio\BSServer\BSServer\obj\Debug\BSServer.csproj.CoreCompileInputs.cache
+E:\Visual Studio\BSServer\BSServer\obj\Debug\BSServer.exe
+E:\Visual Studio\BSServer\BSServer\obj\Debug\BSServer.pdb
